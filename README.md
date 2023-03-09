@@ -12,7 +12,7 @@
 ### [破坏性变更] 改用 Pipeline API 进行推理，方便后续进行更深入的性能优化（如SDP和SDPG很大一部分是重叠的，重用可以加快推理速度），使用说明参见Github快速使用部分
 
 
-###参考如下：
-###介绍了新版ltp的存储方式：https://blog.csdn.net/Jacobsua/article/details/127960946
-###新版ltp的更新说明：https://github.com/HIT-SCIR/ltp
-###LTP文档：https://ltp.readthedocs.io/zh_CN/latest/introduction.html
+### 参考如下：
+### 介绍了新版ltp的存储方式：https://blog.csdn.net/Jacobsua/article/details/127960946
+### 新版ltp的更新说明：https://github.com/HIT-SCIR/ltp
+### LTP文档：https://ltp.readthedocs.io/zh_CN/latest/introduction.html
